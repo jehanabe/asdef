@@ -1,7 +1,7 @@
 {
   "version_code": 1,
   "redirect_mode": false,
-  "applovin_ads": true,
+  "applovin_ads": false,
   "intads_interval": 3,
   "new_package": "com.one.two.three",
   "content": [
