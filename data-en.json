@@ -52,23 +52,7 @@
   },
   {
     "id": 4,
-    "title": "Pros and Cons of Different Investment Strategies",
-    "description": "",
-    "url_source": "",
-    "thumb": "https://investbro.id/wp-content/uploads/2021/01/pendapatan-pasif-930x620.jpg",
-    "category": "Investing for Passive Income",
-    "step": [
-      {
-        "ids": 1,
-        "name": "Pros and Cons of Different Investment Strategies",
-        "image": "",
-        "tutorial": "<p>Each investment strategy comes with its own pros and cons. For example, stocks offer the potential for high returns but also come with a high level of risk. Bonds are less risky but offer lower returns. Real estate can provide steady income but also requires active management</p><p>It's important to understand the risks and rewards of each investment strategy before making a decision. You should also consider your own risk tolerance and investment goals</p>"
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "title": "Risks and Rewards of Investing for Passive Income",
+    "title": "Creating a Diversified Investment Portfolio",
     "description": "",
     "author": "",
     "url_source": "",
@@ -77,9 +61,111 @@
     "step": [
       {
         "ids": 1,
-        "name": "Risks and Rewards of Investing for Passive Income",
+        "name": "Creating a Diversified Investment Portfolio",
         "image": "",
-        "tutorial": "<p>Investing for passive income can be a great way to generate regular returns without actively working for them. However, it also comes with risks. The stock market can be volatile, and real estate investments can be affected by changes in the housing market</p><p>It's important to have a long-term investment strategy and to be prepared for the ups and downs of the market. By doing your research and investing wisely, you can create a steady stream of passive income that will help you achieve your financial goals</p>"
+        "tutorial": "<p>No matter which type of investment you choose, it's important to create a diversified investment portfolio. This means spreading your money across different types of investments to reduce your risk and maximize your returns</p>"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Creating a Diversified Investment Portfolio",
+    "description": "",
+    "author": "",
+    "url_source": "",
+    "thumb": "https://investbro.id/wp-content/uploads/2021/01/pendapatan-pasif-930x620.jpg",
+    "category": "Investing for Passive Income",
+    "step": [
+      {
+        "ids": 1,
+        "name": "Creating a Diversified Investment Portfolio",
+        "image": "",
+        "tutorial": "<p>No matter which type of investment you choose, it's important to create a diversified investment portfolio. This means spreading your money across different types of investments to reduce your risk and maximize your returns</p>"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Creating a Diversified Investment Portfolio",
+    "description": "",
+    "author": "",
+    "url_source": "",
+    "thumb": "https://investbro.id/wp-content/uploads/2021/01/pendapatan-pasif-930x620.jpg",
+    "category": "Investing for Passive Income",
+    "step": [
+      {
+        "ids": 1,
+        "name": "Creating a Diversified Investment Portfolio",
+        "image": "",
+        "tutorial": "<p>No matter which type of investment you choose, it's important to create a diversified investment portfolio. This means spreading your money across different types of investments to reduce your risk and maximize your returns</p>"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Creating a Diversified Investment Portfolio",
+    "description": "",
+    "author": "",
+    "url_source": "",
+    "thumb": "https://investbro.id/wp-content/uploads/2021/01/pendapatan-pasif-930x620.jpg",
+    "category": "Investing for Passive Income",
+    "step": [
+      {
+        "ids": 1,
+        "name": "Creating a Diversified Investment Portfolio",
+        "image": "",
+        "tutorial": "<p>No matter which type of investment you choose, it's important to create a diversified investment portfolio. This means spreading your money across different types of investments to reduce your risk and maximize your returns</p>"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Creating a Diversified Investment Portfolio",
+    "description": "",
+    "author": "",
+    "url_source": "",
+    "thumb": "https://investbro.id/wp-content/uploads/2021/01/pendapatan-pasif-930x620.jpg",
+    "category": "Investing for Passive Income",
+    "step": [
+      {
+        "ids": 1,
+        "name": "Creating a Diversified Investment Portfolio",
+        "image": "",
+        "tutorial": "<p>No matter which type of investment you choose, it's important to create a diversified investment portfolio. This means spreading your money across different types of investments to reduce your risk and maximize your returns</p>"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Creating a Diversified Investment Portfolio",
+    "description": "",
+    "author": "",
+    "url_source": "",
+    "thumb": "https://investbro.id/wp-content/uploads/2021/01/pendapatan-pasif-930x620.jpg",
+    "category": "Investing for Passive Income",
+    "step": [
+      {
+        "ids": 1,
+        "name": "Creating a Diversified Investment Portfolio",
+        "image": "",
+        "tutorial": "<p>No matter which type of investment you choose, it's important to create a diversified investment portfolio. This means spreading your money across different types of investments to reduce your risk and maximize your returns</p>"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Creating a Diversified Investment Portfolio",
+    "description": "",
+    "author": "",
+    "url_source": "",
+    "thumb": "https://investbro.id/wp-content/uploads/2021/01/pendapatan-pasif-930x620.jpg",
+    "category": "Investing for Passive Income",
+    "step": [
+      {
+        "ids": 1,
+        "name": "Creating a Diversified Investment Portfolio",
+        "image": "",
+        "tutorial": "<p>No matter which type of investment you choose, it's important to create a diversified investment portfolio. This means spreading your money across different types of investments to reduce your risk and maximize your returns</p>"
       }
     ]
   }
