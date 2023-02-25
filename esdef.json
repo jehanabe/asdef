@@ -8,27 +8,27 @@
     {
       "id": 1,
       "name": "English",
-      "data_url": "https://bertuah.id/codecanyon/diytutorial/data-en.json"
+      "data_url": "https://raw.githubusercontent.com/jehanabe/asdef/main/data-en.json"
     },
     {
       "id": 2,
       "name": "Indonesia",
-      "data_url": "https://bertuah.id/codecanyon/diytutorial/data-id.json"
+      "data_url": "https://raw.githubusercontent.com/jehanabe/asdef/main/data-id.json"
     },
     {
       "id": 3,
       "name": "French",
-      "data_url": "https://bertuah.id/codecanyon/diytutorial/data-fr.json"
+      "data_url": "https://raw.githubusercontent.com/jehanabe/asdef/main/data-fr.json"
     },
     {
       "id": 4,
       "name": "Spanish",
-      "data_url": "https://bertuah.id/codecanyon/diytutorial/data-es.json"
+      "data_url": "https://raw.githubusercontent.com/jehanabe/asdef/main/data-es.json"
     },
     {
       "id": 5,
       "name": "Rusia",
-      "data_url": "https://bertuah.id/codecanyon/diytutorial/data-ru.json"
+      "data_url": "https://raw.githubusercontent.com/jehanabe/asdef/main/data-ru.json"
     }
   ]
 }
