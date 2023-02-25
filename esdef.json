@@ -1,0 +1,34 @@
+{
+  "version_code": 1,
+  "redirect_mode": false,
+  "applovin_ads": false,
+  "intads_interval": 3,
+  "new_package": "com.one.two.three",
+  "content": [
+    {
+      "id": 1,
+      "name": "English",
+      "data_url": "https://bertuah.id/codecanyon/diytutorial/data-en.json"
+    },
+    {
+      "id": 2,
+      "name": "Indonesia",
+      "data_url": "https://bertuah.id/codecanyon/diytutorial/data-id.json"
+    },
+    {
+      "id": 3,
+      "name": "French",
+      "data_url": "https://bertuah.id/codecanyon/diytutorial/data-fr.json"
+    },
+    {
+      "id": 4,
+      "name": "Spanish",
+      "data_url": "https://bertuah.id/codecanyon/diytutorial/data-es.json"
+    },
+    {
+      "id": 5,
+      "name": "Rusia",
+      "data_url": "https://bertuah.id/codecanyon/diytutorial/data-ru.json"
+    }
+  ]
+}
